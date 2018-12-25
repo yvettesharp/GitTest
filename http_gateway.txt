@@ -1,3 +1,4 @@
-Git is a distributed version control system.老师肯定积分
-Git is free software distributed under the GPL.发顺丰
+﻿Git is a distributed version control system.
+Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+Git tracks changes.
